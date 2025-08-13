@@ -147,15 +147,7 @@ y recursos informaticos.</h3>
                   </div>
                   
                   <div className="rounded-lg overflow-hidden shadow-md">
-                    <iframe 
-                      src="https://open.spotify.com/intl-es/track/2F5a78FASZXvR1Mq2sjTiq?si=78adb301ad4548e9" 
-                      scrolling="no" 
-                      width="100%" 
-                      height="252" 
-                      frameBorder="0" 
-                      title="IF U WANNA"
-                      className="w-full"
-                    />
+               
                   </div>
                   
                   <p className="text-sm text-gray-500 dark:text-gray-400 mt-3">
