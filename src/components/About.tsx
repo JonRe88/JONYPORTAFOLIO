@@ -145,7 +145,6 @@ y recursos informaticos.</h3>
                     <Music className="w-5 h-5 text-indigo-500 mr-2" />
                     <h4 className="font-medium text-gray-900 dark:text-white">IF U WANNA</h4>
                   </div>
-                  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2160014523&color=%238a744d&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jony-reyesp" title="Jony Reyes" target="_blank" style="color: #cccccc; text-decoration: none;">Jony Reyes</a> · <a href="https://soundcloud.com/jony-reyesp/las-calles-de-la-roma-1" title="Las calles de la Roma" target="_blank" style="color: #cccccc; text-decoration: none;">Las calles de la Roma</a></div>
                   <div className="rounded-lg overflow-hidden shadow-md">
                
                   </div>
