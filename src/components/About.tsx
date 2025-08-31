@@ -133,7 +133,7 @@ y recursos informaticos.</h3>
               </div>
             </div>
 
-            <div className={`${activeTab === 'music' ? 'block' : 'hidden'}`}>
+           <div className={`${activeTab === 'music' ? 'block' : 'hidden'}`}>
               <div className="space-y-6">
                 <h3 className="text-xl font-semibold mb-4">Mi Música</h3>
                 <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
@@ -143,15 +143,22 @@ y recursos informaticos.</h3>
                 <div className="bg-gray-50 dark:bg-gray-700/50 rounded-lg p-4 shadow-inner">
                   <div className="flex items-center mb-3">
                     <Music className="w-5 h-5 text-indigo-500 mr-2" />
-                    <h4 className="font-medium text-gray-900 dark:text-white">IF U WANNA</h4>
+                    <h4 className="font-medium text-gray-900 dark:text-white">Las Calles de la Roma</h4>
                   </div>
-                  <div className="rounded-lg overflow-hidden shadow-md">
-               
-                  </div>
-                  
-                  <p className="text-sm text-gray-500 dark:text-gray-400 mt-3">
-                    Una expresión artística que refleja mi creatividad más allá del código.
-                  </p>
+                  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2160014523&color=%238a744d&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+                  <div style={{
+                    fontSize: '10px',
+                    color: '#cccccc',
+                    lineBreak: 'anywhere',
+                    wordBreak: 'normal',
+                    overflow: 'hidden',
+                    whiteSpace: 'nowrap',
+                    textOverflow: 'ellipsis',
+                    fontFamily: 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif',
+                    fontWeight: 100
+                  }}>
+                    <a href="https://soundcloud.com/jony-reyesp" title="Jony Reyes" target="_blank" style={{color: '#cccccc', textDecoration: 'none'}}>Jony Reyes</a> · <a href="https://soundcloud.com/jony-reyesp/las-calles-de-la-roma-1" title="Las calles de la Roma" target="_blank" style={{color: '#cccccc', textDecoration: 'none'}}>Las calles de la Roma</a></div>
+                 
                 </div>
               </div>
             </div>
